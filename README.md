@@ -15,3 +15,5 @@ $ pip3 install -r requirements.txt
 $ streamlit run app.py
 ```
 
+You can checkout the cloud deployed app at - https://wessport-streamlit-map-viz-app-rkclze.streamlitapp.com/ !
+
